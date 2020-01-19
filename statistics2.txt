@@ -1,0 +1,10 @@
+Dock 0 : 88 ships
+Dock 1 : 68 ships
+Dock 2 : 45 ships
+Dock 3 : 45 ships
+Dock 4 : 30 ships
+Dock 0 : 88 ships
+Dock 1 : 68 ships
+Dock 2 : 45 ships
+Dock 3 : 45 ships
+Dock 4 : 32 ships
